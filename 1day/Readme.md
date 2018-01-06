@@ -6,6 +6,7 @@ ubuntu 기반으로 진행됩니다.
 ###파이썬 2,3의 차이 
 
 ###아나콘다의 설치 (터미널이 실행되어 있다는 전제하에)
+	
 	```
 	1. wget https://github.com/saranf/saranguniv3_python.git (python2.7)
 	1-1. wget https://repo.continuum.io/archive/Anaconda3-4.3.1-Linux-x86_64.sh (python3)
@@ -41,3 +42,5 @@ ubuntu 기반으로 진행됩니다.
 		- source active myPython
 		- jupyter notebook
 	```
+
+	그 외 문법은 lecture1.pdf참고
